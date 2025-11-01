@@ -13,9 +13,18 @@
 
   ## Frequently Asked Questions
 
-  ### How do I earn badges?
-  Play scenarios in any category to build your streak. You'll earn badges at milestones: 3, 5, 10, 15, 20, 25, 30, 40, and 50 scenarios
-  completed in each category.
+   ### How do I earn badges?
+  Play scenarios in any category to build your streak. You'll earn badges at these milestones:
+  - **5 scenarios** - First Steps
+  - **10 scenarios** - Building Momentum
+  - **20 scenarios** - Resilience Champion
+  - **30 scenarios** - Unstoppable Mind
+  - **40 scenarios** - Dragon Sage
+  - **50 scenarios** - Category Mastered!
+
+  **Special Achievement Badges:**
+  - **Silver Dragon** - Complete all 6 categories (50 scenarios each) in one age group
+  - **Golden Dragon** - Complete all categories across all age groups (ultimate mastery!)
 
   ### How do streaks work?
   Each time you complete a scenario in a category, your streak for that category increases by 1. Streaks are tracked separately for
