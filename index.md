@@ -1,3 +1,6 @@
+---
+---
+<link rel="icon" type="image/png" href="dragonhappy.png">
 # Privacy Policy for Feed Your Dragons
 
 **Last Updated:** [Current Date]
